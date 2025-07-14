@@ -1,0 +1,7 @@
+# FIX: Inden diperbaiki dan nama dikapitalisasi agar lebih rapi.
+- name: Home
+  link: /
+- name: Friends
+  link: /friends.html
+- name: Blog
+  link: /blog.html

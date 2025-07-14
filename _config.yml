@@ -1,0 +1,23 @@
+# Informasi Situs
+title: Alvi Syahril
+description: "Selamat datang di situs pribadi saya. Berisi portofolio, tulisan, dan proyek yang sedang saya kerjakan."
+
+# URL & BaseURL
+url: "https://alvi0syahril.github.io"
+baseurl: ""
+
+# Plugin
+# FIX: Inden diperbaiki menggunakan spasi biasa.
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+# Tema#_config.yml
+sass:
+  load_paths:
+    - _sass
+
+# Informasi Tambahan (Opsional)
+author: Alvi Syahril
+github_username: Alvi0Syahril
